@@ -1,0 +1,3 @@
+---
+ - name: raw apt install python
+   raw: sudo apt install -y python aptitude
